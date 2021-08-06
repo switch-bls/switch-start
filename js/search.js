@@ -27,7 +27,7 @@ function search(query) {
 		case '-w':
 			query = query.substr(3);
 			window.open(
-				'https://ru.wikipedia.org/w/index.php?search=' +
+				'https://wikipedia.org/w/index.php?search=' +
 				query.replaceChars(' ', '%20'), '_blank');
 			break;
 		case '-r':
