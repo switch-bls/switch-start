@@ -271,6 +271,49 @@ input[id="searchbox"]:focus {
 	background: url('https://api.iconify.design/simple-icons:leetcode.svg?color=%231d2021') no-repeat center center / contain;
 }
 
+/*netflix*/
+.icon-netflix {
+	background: url('https://api.iconify.design/simple-icons:netflix.svg?color=%23a89984') no-repeat center center / contain;
+}
+.icon-netflix:hover {
+	background: url('https://api.iconify.design/simple-icons:netflix.svg?color=%231d2021') no-repeat center center / contain;
+}
+.icon-netflix:focus {
+	background: url('https://api.iconify.design/simple-icons:netflix.svg?color=%231d2021') no-repeat center center / contain;
+}
+
+/*etu.univ-lorraine*/
+.icon-ul {
+	background: url('../assets/icons/UL-claire.svg') no-repeat center center / contain;
+}
+.icon-ul:hover {
+	background: url('../assets/icons/UL-claire-hover.svg') no-repeat center center / contain;
+}
+.icon-ul:focus {
+	background: url('../assets/icons/UL-claire-hover.svg') no-repeat center center / contain;
+}
+
+/*voiranime*/
+.icon-va {
+	background: url('../assets/icons/VA.svg') no-repeat center center / contain;
+}
+.icon-va:hover {
+	background: url('../assets/icons/VA-hover.svg') no-repeat center center / contain;
+}
+.icon-va:focus {
+	background: url('../assets/icons/VA-hover.svg') no-repeat center center / contain;
+}
+
+/*gmail*/
+.icon-gmail {
+	background: url('https://api.iconify.design/mdi:gmail.svg?color=%23a89984') no-repeat center center / contain;
+}
+.icon-gmail:hover {
+	background: url('https://api.iconify.design/mdi:gmail.svg?color=%231d2021') no-repeat center center / contain;
+}
+.icon-gmail:focus {
+	background: url('https://api.iconify.design/mdi:gmail.svg?color=%231d2021') no-repeat center center / contain;
+}
 
 .search {
 	margin: 0px 0px 25px 0px;
